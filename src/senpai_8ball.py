@@ -85,4 +85,3 @@ class Senpai8ball:
 
 def setup(bot):
     bot.add_cog(Senpai8ball())
-
